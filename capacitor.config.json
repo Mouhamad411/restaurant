@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.restaurant",
+  "appName": "restaurant",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
